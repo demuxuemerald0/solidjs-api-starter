@@ -1,2 +1,3 @@
 # Daily Notes
 Summarize journalist list
+Configure automatic daily build and test run
